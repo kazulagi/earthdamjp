@@ -21,7 +21,7 @@
 * 近畿地方
 * 中国地方
     * [岡山県](https://github.com/kazulagi/earthdamjp/tree/main/data/033_okayama)
-        * [長谷下池](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi/長谷下池/長谷下池_000001.stl)
+        * [長谷下池](https://github.com/kazulagi/earthdamjp/tree/main/data/033_okayama/長谷下池/長谷下池_000001.stl)
 * 四国地方
 * 九州地方
 
