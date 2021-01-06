@@ -1,4 +1,34 @@
-## Welcome to GitHub Pages
+# earthdamjp
+
+このレポジトリは、日本の農業用ため池のデータベースです。
+日本のため池について、来歴、土質データ、メッシュデータをとりまとめて公表しています。
+本内容はMITライセンスのもと、自由にご利用頂けます。
+
+# ホームページ
+[このページ](https://kazulagi.github.io/earthdamjp/)
+[Github](https://github.com/kazulagi/earthdamjp)
+
+
+# 現在登録されているため池一覧
+
+* 北海道地方
+* 東北地方
+* 関東地方
+* 中部地方
+    * [愛知県](./data/023_aichi)
+* 近畿地方
+* 中国地方
+    * [岡山県](./data/033_okayama)
+* 四国地方
+* 九州地方
+
+# 謝辞
+本プロジェクトは、
+一般財団法人 日本国土開発未来研究財団助成事業（令和2年度）の支援を受けて行われました。
+（学術調査事業名「歴史地理学と物理数値シミュレーションの融合による、ため池の力学特性データベースの構築」）
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kazulagi/earthdamjp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +65,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
