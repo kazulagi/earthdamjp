@@ -15,10 +15,10 @@
 * 東北地方
 * 関東地方
 * 中部地方
-    * [愛知県](./data/023_aichi)
+    * [愛知県](https://github.com/kazulagi/earthdamjp/data/023_aichi)
 * 近畿地方
 * 中国地方
-    * [岡山県](./data/033_okayama)
+    * [岡山県](https://github.com/kazulagi/earthdamjp/data/033_okayama)
 * 四国地方
 * 九州地方
 
