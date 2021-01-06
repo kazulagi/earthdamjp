@@ -9,7 +9,7 @@
 [Github](https://github.com/kazulagi/earthdamjp)
 
 
-# 現在登録されているため池一覧
+# 登録済ため池一覧
 
 
 * 北海道地方
