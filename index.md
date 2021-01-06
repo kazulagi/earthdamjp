@@ -15,16 +15,18 @@
 * 東北地方
 * 関東地方
 * 中部地方
-    * [愛知県](https://github.com/kazulagi/earthdamjp/data/023_aichi)
+    * [愛知県](https://github.com/kazulagi/earthdamjp/data/023_aichi/info.json)
 * 近畿地方
 * 中国地方
-    * [岡山県](https://github.com/kazulagi/earthdamjp/data/033_okayama)
+    * [岡山県](https://github.com/kazulagi/earthdamjp/data/033_okayama/info.json)
 * 四国地方
 * 九州地方
 
 # 謝辞
 本プロジェクトは、
 一般財団法人 日本国土開発未来研究財団助成事業（令和2年度）の支援を受けて行われました。
+
+
 （学術調査事業名「歴史地理学と物理数値シミュレーションの融合による、ため池の力学特性データベースの構築」）
 
 
