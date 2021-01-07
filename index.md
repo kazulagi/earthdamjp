@@ -11,7 +11,6 @@
 をとりまとめて公表しています。
 
 全てのデータは、MITライセンスの下で無料でご利用頂けます。
-![bg 300%](etc/bg.png)
 
 # 登録済ため池一覧
 
@@ -81,6 +80,18 @@
     * [宮崎県](https://github.com/kazulagi/earthdamjp/tree/main/data/045_miyazaki)
     * [鹿児島県](https://github.com/kazulagi/earthdamjp/tree/main/data/046_kagoshima)
     * [沖縄県](https://github.com/kazulagi/earthdamjp/tree/main/data/047_okinawa)
+
+# 有限要素法解析向けメッシュデータ
+
+それぞれのため池のフォルダには、有限要素法解析のためのメッシュデータやメタデータが格納されています。
+
+ファイル内容とファイル形式は以下の通りです。
+
+- [JSON](https://www.json.org/json-en.html)形式であるメタデータ：``` info.json ```
+- [Gmsh](https://gmsh.info/)対応ファイル形式であるメッシュデータ：``` .msh ```
+- [Paraview](https://www.paraview.org/)対応ファイル形式であるメッシュデータ：``` .vtk ```
+- [Blender](https://www.blender.org/)対応ファイル形式であるサーフェスデータ：``` .stl ```
+
 
 # 謝辞
 本プロジェクトは、
