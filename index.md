@@ -1,16 +1,10 @@
-# earthdamjp
+# earthdam.jp
 
-このレポジトリは、日本の農業用ため池のデータベースです。
+``` earthdam.jp ```は、日本の農業用ため池のデータベースです。
 日本のため池について、来歴、土質データ、メッシュデータをとりまとめて公表しています。
 本内容はMITライセンスのもと、自由にご利用頂けます。
 
-# ホームページ
-[このページ](https://kazulagi.github.io/earthdamjp/)
-[Github](https://github.com/kazulagi/earthdamjp)
-
-
 # 登録済ため池一覧
-
 
 * 北海道地方
     * [北海道](https://github.com/kazulagi/earthdamjp/tree/main/data/001_hokkaido)
