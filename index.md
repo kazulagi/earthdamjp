@@ -52,6 +52,7 @@
     * [滋賀県](https://github.com/kazulagi/earthdamjp/tree/main/data/025_shiga)
     * [京都府](https://github.com/kazulagi/earthdamjp/tree/main/data/026_kyoto)
     * [大阪府](https://github.com/kazulagi/earthdamjp/tree/main/data/027_osaka)
+        * [寺ガ池](https://github.com/kazulagi/earthdamjp/tree/main/data/027_osaka/寺ガ池/寺ガ池_000001.stl)
     * [兵庫県](https://github.com/kazulagi/earthdamjp/tree/main/data/028_hyogo)
     * [奈良県](https://github.com/kazulagi/earthdamjp/tree/main/data/029_nara)
     * [和歌山県](https://github.com/kazulagi/earthdamjp/tree/main/data/030_wakayama)
