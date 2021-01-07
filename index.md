@@ -1,3 +1,5 @@
+![bg 50%](etc/bg.png)
+
 # earthdam.jp
 
 ``` earthdam.jp ```は、日本の農業用ため池のデータベースです。
