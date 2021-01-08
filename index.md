@@ -1,6 +1,6 @@
 
 # earthdam.jp
-<script src="https://embed.github.com/view/3d/kazulagi/earthdamjp/tree/main/data/024_mie/風早池/風早池_000001.stl"></script>
+<script src="https://embed.github.com/view/3d/kazulagi/earthdamjp/main/data/024_mie/風早池/風早池_000001.stl?height=300&width=500"></script>
 ``` earthdam.jp ```は、日本の農業用ため池のデータベースです。
 日本のため池について、
 
