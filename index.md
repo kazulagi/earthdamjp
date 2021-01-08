@@ -63,8 +63,11 @@
     * [島根県](https://github.com/kazulagi/earthdamjp/tree/main/data/032_shimane)
     * [岡山県](https://github.com/kazulagi/earthdamjp/tree/main/data/033_okayama)
         * [長谷下池](https://github.com/kazulagi/earthdamjp/tree/main/data/033_okayama/長谷下池/長谷下池_000001.stl)
+        * [幻住寺池](https://github.com/kazulagi/earthdamjp/tree/main/data/033_okayama/幻住寺池/幻住寺池_000001.stl)
     * [広島県](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima)
         * [服部大池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/服部大池/服部大池_000001.stl)
+        * [上野池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/上野池/上野池_000001.stl)
+        * [国兼池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/国兼池/国兼池_000001.stl)
     * [山口県](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi)
     
 * 四国地方
