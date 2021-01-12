@@ -55,6 +55,7 @@
     * [大阪府](https://github.com/kazulagi/earthdamjp/tree/main/data/027_osaka)
         * [寺ガ池](https://github.com/kazulagi/earthdamjp/tree/main/data/027_osaka/寺ガ池/寺ガ池_000001.stl)
     * [兵庫県](https://github.com/kazulagi/earthdamjp/tree/main/data/028_hyogo)
+        * [本宮池](https://github.com/kazulagi/earthdamjp/tree/main/data/028_hyogo/本宮池/本宮池_000001.stl)
     * [奈良県](https://github.com/kazulagi/earthdamjp/tree/main/data/029_nara)
     * [和歌山県](https://github.com/kazulagi/earthdamjp/tree/main/data/030_wakayama)
     
@@ -69,12 +70,14 @@
         * [上野池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/上野池/上野池_000001.stl)
         * [国兼池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/国兼池/国兼池_000001.stl)
     * [山口県](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi)
+        * [常盤池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/常盤池/常盤池_000001.stl)
     
 * 四国地方
     * [徳島県](https://github.com/kazulagi/earthdamjp/tree/main/data/036_tokushima)
     * [香川県](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa)
         * [亀越池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/亀越池/亀越池_000001.stl)
     * [愛媛県](https://github.com/kazulagi/earthdamjp/tree/main/data/038_ehime)
+        * [土居池](https://github.com/kazulagi/earthdamjp/tree/main/data/038_ehime/土居池/土居池_000001.stl)
     * [高知県](https://github.com/kazulagi/earthdamjp/tree/main/data/039_kochi)
     
 * 九州地方
