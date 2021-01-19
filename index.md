@@ -46,6 +46,7 @@
     * [愛知県](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi)
         * [入鹿池](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi/入鹿池/入鹿池_000001.stl)
         * [勅使池](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi/勅使池/勅使池_000001.stl)
+        * [別曽池](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi/別曽池/別曽池_000001.stl)
 
 * 近畿地方
     * [三重県](https://github.com/kazulagi/earthdamjp/tree/main/data/024_mie)
