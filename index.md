@@ -19,6 +19,8 @@
 
 * 東北地方
     * [青森県](https://github.com/kazulagi/earthdamjp/tree/main/data/002_aomori)
+        * [大穴溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/002_aomori/大穴溜池/info.json)
+        * [廻堰大池](https://github.com/kazulagi/earthdamjp/tree/main/data/002_aomori/廻堰大池/info.json)
     * [岩手県](https://github.com/kazulagi/earthdamjp/tree/main/data/003_iwate)
     * [宮城県](https://github.com/kazulagi/earthdamjp/tree/main/data/004_miyagi)
     * [秋田県](https://github.com/kazulagi/earthdamjp/tree/main/data/005_akita)
