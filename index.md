@@ -42,8 +42,13 @@
 * 関東地方
     * [茨城県](https://github.com/kazulagi/earthdamjp/tree/main/data/008_ibaraki)
     * [栃木県](https://github.com/kazulagi/earthdamjp/tree/main/data/009_tochigi)
+        * [逆川調整池](https://github.com/kazulagi/earthdamjp/tree/main/data/009_tochigi/逆川調整池/info.json)
     * [群馬県](https://github.com/kazulagi/earthdamjp/tree/main/data/010_gunnma)
+        * [大谷溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/010_gunnma/大谷溜池/info.json)
+        * [田代貯水池](https://github.com/kazulagi/earthdamjp/tree/main/data/010_gunnma/田代貯水池/info.json)
+
     * [埼玉県](https://github.com/kazulagi/earthdamjp/tree/main/data/011_saitama)
+        * [山口貯水池](https://github.com/kazulagi/earthdamjp/tree/main/data/011_saitama/山口貯水池/info.json)
     * [千葉県](https://github.com/kazulagi/earthdamjp/tree/main/data/012_chiba)
     * [東京都](https://github.com/kazulagi/earthdamjp/tree/main/data/013_tokyo)
     * [神奈川県](https://github.com/kazulagi/earthdamjp/tree/main/data/014_kanagawa)
