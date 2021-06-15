@@ -1,11 +1,11 @@
 {
-    "Name":"小泉第一号溜池",
+    "Name":"小泉第二号溜池",
     "Ref":"本邦高土堰堤誌, 農業土木学会, 1934年6月",
     "OldLocation":"岐阜県可児郡小泉村",
     "Location":"岐阜県多治見市",
-    "Soil":"Loam Soil",
+    "Soil":"Clay/Loam Soil",
     "Hagane":"Center",
     "Constructor":"小泉第一耕地整理組合",
-    "Year":"1922",
-    "Comment":"開田"
+    "Year":"1915",
+    "Comment":"開田．遮水壁には礫まじりの粘土を用いている．"
 }
