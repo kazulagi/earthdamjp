@@ -12,7 +12,7 @@
 
 全てのデータは、MITライセンスの下で無料でご利用頂けます。
 
-```2021年6月8日現在： 56 溜池```
+```2021年6月15日現在： 76 溜池```
 
 # 登録済ため池一覧
 
@@ -88,21 +88,44 @@
         * [北部聯合第一号池](https://github.com/kazulagi/earthdamjp/tree/main/data/021_gifu/北部聯合第一号池/info.json)
         * [北部聯合第二号池](https://github.com/kazulagi/earthdamjp/tree/main/data/021_gifu/北部聯合第二号池/info.json)
         * [野井西武第一号溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/021_gifu/野井西武第一号溜池/info.json)
+        * [小泉第一号溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/021_gifu/小泉第一号溜池/info.json)
+        * [小泉第二号溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/021_gifu/小泉第二号溜池/info.json)
+        * [為真池](https://github.com/kazulagi/earthdamjp/tree/main/data/021_gifu/為真池/info.json)
+        * [坂本池](https://github.com/kazulagi/earthdamjp/tree/main/data/021_gifu/坂本池/info.json)
+        
     * [静岡県](https://github.com/kazulagi/earthdamjp/tree/main/data/022_shizuoka)
     * [愛知県](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi)
         * [入鹿池](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi/入鹿池/入鹿池_000001.stl)
         * [勅使池](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi/勅使池/勅使池_000001.stl)
         * [別曽池](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi/別曽池/別曽池_000001.stl)
+        * [若王子池](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi/若王子池/info.json)
+        * [新池](https://github.com/kazulagi/earthdamjp/tree/main/data/023_aichi/新池/info.json)
+        
 
 * 近畿地方
     * [三重県](https://github.com/kazulagi/earthdamjp/tree/main/data/024_mie)
         * [風早池](https://github.com/kazulagi/earthdamjp/tree/main/data/024_mie/風早池/風早池_000001.stl)
+        * [笠田池](https://github.com/kazulagi/earthdamjp/tree/main/data/024_mie/笠田池/info.json)
     * [滋賀県](https://github.com/kazulagi/earthdamjp/tree/main/data/025_shiga)
+        * [南谷池](https://github.com/kazulagi/earthdamjp/tree/main/data/025_shiga/南谷池/info.json)
+        * [宝殿池](https://github.com/kazulagi/earthdamjp/tree/main/data/025_shiga/宝殿池/info.json)
+        * [淡海池](https://github.com/kazulagi/earthdamjp/tree/main/data/025_shiga/淡海池/info.json)
+        * [金吹池](https://github.com/kazulagi/earthdamjp/tree/main/data/025_shiga/金吹池/info.json)
+    
     * [京都府](https://github.com/kazulagi/earthdamjp/tree/main/data/026_kyoto)
+        * [大谷池](https://github.com/kazulagi/earthdamjp/tree/main/data/026_kyoto/大谷池/info.json)
+        * [廻リ池](https://github.com/kazulagi/earthdamjp/tree/main/data/026_kyoto/廻リ池/info.json)
+        * [豊昌池](https://github.com/kazulagi/earthdamjp/tree/main/data/026_kyoto/豊昌池/info.json)
+        * [火ノ口谷池](https://github.com/kazulagi/earthdamjp/tree/main/data/026_kyoto/火ノ口谷池/info.json)
     * [大阪府](https://github.com/kazulagi/earthdamjp/tree/main/data/027_osaka)
         * [寺ガ池](https://github.com/kazulagi/earthdamjp/tree/main/data/027_osaka/寺ガ池/寺ガ池_000001.stl)
+        * [坂谷池](https://github.com/kazulagi/earthdamjp/tree/main/data/027_osaka/坂谷池/info.json)
+        * [狭山池](https://github.com/kazulagi/earthdamjp/tree/main/data/027_osaka/狭山池/info.json)
+        * [新池](https://github.com/kazulagi/earthdamjp/tree/main/data/027_osaka/新池/info.json)
     * [兵庫県](https://github.com/kazulagi/earthdamjp/tree/main/data/028_hyogo)
         * [本宮池](https://github.com/kazulagi/earthdamjp/tree/main/data/028_hyogo/本宮池/本宮池_000001.stl)
+        * [大城池](https://github.com/kazulagi/earthdamjp/tree/main/data/028_hyogo/大城池/info.json)
+        * [板木池](https://github.com/kazulagi/earthdamjp/tree/main/data/028_hyogo/板木池/info.json)
     * [奈良県](https://github.com/kazulagi/earthdamjp/tree/main/data/029_nara)
     * [和歌山県](https://github.com/kazulagi/earthdamjp/tree/main/data/030_wakayama)
     
