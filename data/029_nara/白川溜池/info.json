@@ -1,11 +1,11 @@
 {
-    "Name":"山口貯水池",
+    "Name":"白川溜池",
     "Ref":"本邦高土堰堤誌, 農業土木学会, 1934年6月",
-    "OldLocation":"埼玉県入間郡山口村",
-    "Location":"埼玉県所沢市",
-    "Soil":"Loam Soil",
+    "OldLocation":"奈良県添上郡櫟本村",
+    "Location":"奈良県天理市",
+    "Soil":"Sandy Soil",
     "Hagane":"Center",
-    "Constructor":"東京市水道局",
+    "Constructor":"奈良県",
     "Year":"1932",
     "Comment":"上水道　Year:西暦4桁，調査中，Edo(築堤年不明であるが江戸期以前)のいずれか．"
 }
