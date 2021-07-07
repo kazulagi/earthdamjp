@@ -1,5 +1,9 @@
 # vtk DataFile Version 2.0
+<<<<<<< HEAD
 ../../earthdamjp/data/031_tottori/長尾谷池/mesh.vtk
+=======
+../031_tottori/長尾谷池/mesh.vtk
+>>>>>>> 77d396bf28e056f0e7cfa19d4abaffd89576b322
 ASCII
 DATASET UNSTRUCTURED_GRID
 POINTS 20336 float
