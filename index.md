@@ -12,7 +12,7 @@
 
 全てのデータは、MITライセンスの下で無料でご利用頂けます。
 
-```2021年7月6日現在： 142 溜池```
+```2021年7月6日現在： 152 溜池```
 
 # 登録済ため池一覧
 
@@ -203,23 +203,43 @@
         * [服部大池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/服部大池/服部大池_000001.stl)
         * [上野池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/上野池/上野池_000001.stl)
         * [国兼池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/国兼池/国兼池_000001.stl)
+        * [宇津戸貯水池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/宇津戸貯水池/info.json)
+        * [栗栖川貯水池](https://github.com/kazulagi/earthdamjp/tree/main/data/034_hiroshima/栗栖川貯水池/info.json)
+
+
     * [山口県](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi)
         * [常盤池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/常盤池/常盤池_000001.stl)
     
 * 四国地方
     * [徳島県](https://github.com/kazulagi/earthdamjp/tree/main/data/036_tokushima)
+      * [中岩倉池](https://github.com/kazulagi/earthdamjp/tree/main/data/036_tokushima/中岩倉池/info.json)
     * [香川県](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa)
         * [亀越池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/亀越池/亀越池_000001.stl)
         * [城池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/城池/城池_000001.stl)
+        * [満濃池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/満濃池/info.json)
+        * [逆瀬池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/逆瀬池/info.json)
+
+
+
     * [愛媛県](https://github.com/kazulagi/earthdamjp/tree/main/data/038_ehime)
         * [土居池](https://github.com/kazulagi/earthdamjp/tree/main/data/038_ehime/土居池/土居池_000001.stl)
+        * [犬塚池](https://github.com/kazulagi/earthdamjp/tree/main/data/038_ehime/犬塚池/info.json)
+        * [鹿の子池](https://github.com/kazulagi/earthdamjp/tree/main/data/038_ehime/鹿の子池/info.json)
+
+
     * [高知県](https://github.com/kazulagi/earthdamjp/tree/main/data/039_kochi)
-    
+        * [野地溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/039_kochi/野地溜池/info.json)
+
+
 * 九州地方
     * [福岡県](https://github.com/kazulagi/earthdamjp/tree/main/data/040_fukuoka)
     * [佐賀県](https://github.com/kazulagi/earthdamjp/tree/main/data/041_saga)
     * [長崎県](https://github.com/kazulagi/earthdamjp/tree/main/data/042_nagasaki)
     * [熊本県](https://github.com/kazulagi/earthdamjp/tree/main/data/043_kumamoto)
+      * [大切畑溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/043_kumamoto/大切畑溜池/info.json)
+      * [石堂溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/043_kumamoto/石堂溜池/info.json)
+
+
     * [大分県](https://github.com/kazulagi/earthdamjp/tree/main/data/044_oita)
     * [宮崎県](https://github.com/kazulagi/earthdamjp/tree/main/data/045_miyazaki)
     * [鹿児島県](https://github.com/kazulagi/earthdamjp/tree/main/data/046_kagoshima)
