@@ -209,6 +209,16 @@
 
     * [山口県](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi)
         * [常盤池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/常盤池/常盤池_000001.stl)
+        * [上ノ原溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/上ノ原溜池/info.json)
+        * [千人塚溜池_1](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/千人塚溜池_1/info.json)
+        * [千人塚溜池_2](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/千人塚溜池_2/info.json)
+        * [境川溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/境川溜池/info.json)
+        * [新市池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/新市池/info.json)
+        * [深坂溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/深坂溜池/info.json)
+        * [福江池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/福江池/info.json)
+        * [第一号溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/第一号溜池/info.json)
+        * [西山万寿溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/西山万寿溜池/info.json)
+        * [西深川溜池](https://github.com/kazulagi/earthdamjp/tree/main/data/035_yamaguchi/西深川溜池/info.json)
     
 * 四国地方
     * [徳島県](https://github.com/kazulagi/earthdamjp/tree/main/data/036_tokushima)
@@ -218,8 +228,13 @@
         * [城池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/城池/城池_000001.stl)
         * [満濃池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/満濃池/info.json)
         * [逆瀬池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/逆瀬池/info.json)
-
-
+        * [三郎池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/三郎池/info.json)
+        * [公淵池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/公淵池/info.json)
+        * [宗極池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/宗極池/info.json)
+        * [岩瀬池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/岩瀬池/info.json)
+        * [松尾池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/松尾池/info.json)
+        * [神内上池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/神内上池/info.json)
+        * [花ノ山池](https://github.com/kazulagi/earthdamjp/tree/main/data/037_kagawa/花ノ山池/info.json)
 
     * [愛媛県](https://github.com/kazulagi/earthdamjp/tree/main/data/038_ehime)
         * [土居池](https://github.com/kazulagi/earthdamjp/tree/main/data/038_ehime/土居池/土居池_000001.stl)
