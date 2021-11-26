@@ -1,9 +1,5 @@
 # vtk DataFile Version 2.0
-<<<<<<< HEAD
-../../earthdamjp/data/002_aomori/大穴溜池/mesh.vtk
-=======
-../002_aomori/大穴溜池/mesh.vtk
->>>>>>> 77d396bf28e056f0e7cfa19d4abaffd89576b322
+大穴溜池, created by earthdamjp
 ASCII
 DATASET UNSTRUCTURED_GRID
 POINTS 20336 float

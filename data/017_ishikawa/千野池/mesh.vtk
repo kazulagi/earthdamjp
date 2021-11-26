@@ -1,9 +1,5 @@
 # vtk DataFile Version 2.0
-<<<<<<< HEAD
-../../earthdamjp/data/017_ishikawa/千野池/mesh.vtk
-=======
 ../017_ishikawa/千野池/mesh.vtk
->>>>>>> 77d396bf28e056f0e7cfa19d4abaffd89576b322
 ASCII
 DATASET UNSTRUCTURED_GRID
 POINTS 20336 float

@@ -1,5 +1,5 @@
 # vtk DataFile Version 2.0
-../033_okayama/黒谷池/profile.txt.vtk
+黒谷池, created by earthdamjp
 ASCII
 DATASET UNSTRUCTURED_GRID
 POINTS 20336 float
